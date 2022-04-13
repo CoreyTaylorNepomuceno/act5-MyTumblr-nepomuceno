@@ -58,17 +58,17 @@ body {
             </div>
 
             <div class="px-4 py-3">
-                <h5 class="mb-0">Expertise </h5>
+                <h5 class="mb-0">Hobbies </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Full-stack Web Developer</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">Playing Basketball</p>
+                    <p class="font-italic mb-0">Taking photos of the Sea/Ocean</p>
+                    <p class="font-italic mb-0">Traveling</p>
                 </div>
             </div>
 
             <div class="py-4 px-4">
                 <div class="d-flex align-items-center justify-content-between mb-3">
-                    <h5 class="mb-0">Recent Captures</h5><a href="#" class="btn btn-link text-muted">Show all</a>
+                    <h5 class="mb-0">Recent Images</h5><a href="#" class="btn btn-link text-muted">Show all</a>
                 </div>
                 <div class="row">
                     
